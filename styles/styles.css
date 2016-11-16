@@ -9,6 +9,12 @@ input[type="text"] {
   float: left;
   margin-left: 10px;
 }
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
 .loader {
   display: none;
   margin-left: 5px;
